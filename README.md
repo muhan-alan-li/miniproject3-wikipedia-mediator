@@ -1,6 +1,6 @@
 # Wikipedia-mediator Project
 
-This was the third of three mini-projects done for a my CPEN221 course at UBC, I've listed my contributions to the project below
+This was the third of three mini-projects done for a my software construction course at UBC, I've listed my contributions to the project below
 
 - **Implementation of a Buffer**
   - Using the java.time library to implement a buffer that stores an item until it becomes "stale" and obsolete
