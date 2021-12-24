@@ -16,6 +16,6 @@ This was the third of three mini-projects done for a my CPEN221 course at UBC, I
   - Using the java concurrent library to implement a simple breadth-first-search that runs using multiple threads for improved performance
   - Using the java concurrent library to implement a timeout feature for this method:
     - Given a timeout parameter, the method will end if it does not compelete within the allocated time and throw a timeoutException
-  - This method is tasked with discovering the shortest path between two Wikipedia pages, akin to the project "six degrees of wikipedia"
+  - This method is tasked with discovering the shortest path between two Wikipedia pages, akin to the project ["six degrees of wikipedia"](https://www.sixdegreesofwikipedia.com/)
 
 A more detailed account of contributions exist in the form of the three CONTRIB-(github_username).md files
