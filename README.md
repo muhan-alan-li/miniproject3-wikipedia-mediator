@@ -12,7 +12,7 @@ This was the third of three mini-projects done for a my CPEN221 course at UBC, I
   - Also implementing package-private helper classes to handle and parse information obtained through the wikipedia API and stored within the mediator class
   - NOTE: once again, I made no contributions towards making this class thread-safe, a task that was left to my two teammates
 
--**Concurrent breadth-first-search**
+- **Concurrent breadth-first-search**
   - Using the java concurrent library to implement a simple breadth-first-search that runs using multiple threads for improved performance
   - Using the java concurrent library to implement a timeout feature for this method:
     - Given a timeout parameter, the method will end if it does not compelete within the allocated time and throw a timeoutException
